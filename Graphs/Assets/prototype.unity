@@ -436,10 +436,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Tut link: https://catlikecoding.com/unity/tutorials/basics/building-a-graph/
+  m_Text: 'Tutorial link: https://catlikecoding.com/unity/tutorials/basics/building-a-graph/
 
-
-    Graph of (x, sin(x + t))
+    https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/
 
 '
 --- !u!222 &1054985564
