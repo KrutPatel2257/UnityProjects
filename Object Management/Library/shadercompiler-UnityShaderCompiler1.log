@@ -1,0 +1,4 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=15 insize=1251 outsize=1251 ok=1
