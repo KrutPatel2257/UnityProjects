@@ -1,4 +1,4 @@
-Some unity projects I have worked on while learning unity. It also includes some scripts that I use for refrence. 
+Some unity projects I have worked on while learning unity. It also includes some scripts that I use for reference. 
 
 Here are some links which I refered to, while learning Unity:
 
